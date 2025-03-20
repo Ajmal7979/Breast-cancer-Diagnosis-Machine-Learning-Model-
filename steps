@@ -1,0 +1,8 @@
+steps : 
+
+1. Loads and preprocesses the Breast Cancer Wisconsin (Diagnostic) dataset.
+2. Applies Standard Scaling and Principal Component Analysis (PCA) for dimensionality reduction.
+3. Trains Random Forest and Support Vector Machine (SVM) classifiers.
+4. Uses GridSearchCV for hyperparameter tuning of the SVM model.
+5. Evaluates models with accuracy, classification report, and confusion matrix.
+
